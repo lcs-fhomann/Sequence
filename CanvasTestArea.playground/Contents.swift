@@ -79,7 +79,7 @@ canvas.drawEllipse(centreX: 250, centreY: -10, width: 340, height: 280, borderWi
 canvas.borderColor = Color.blue
 canvas.drawEllipse(centreX: 250, centreY: -20, width: 300, height: 240, borderWidth: 40)
 canvas.borderColor = Color.purple
-canvas.drawEllipse(centreX: 250, centreY: -30, width: 260, height: 220, borderWidth: 30)
+canvas.drawEllipse(centreX: 250, centreY: -30, width: 260, height: 220, borderWidth: 27)
 
 // This code is necessary to see the result in the Assistant Editor at right
 PlaygroundPage.current.liveView = canvas.imageView
