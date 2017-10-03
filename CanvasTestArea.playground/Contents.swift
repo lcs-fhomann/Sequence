@@ -63,7 +63,7 @@ canvas.fillColor = Color.white
 canvas.drawShapesWithBorders = false
 canvas.drawEllipse(centreX: 470, centreY: 480, width: 110, height: 110, borderWidth: 0)
 canvas.drawEllipse(centreX: 495, centreY: 430, width: 115, height: 115, borderWidth: 0)
-canvas.drawEllipse(centreX: 420, centreY: 490, width: 110, height: 110, borderWidth: 0)
+canvas.drawEllipse(centreX: 420, centreY: 490, width: 115, height: 115, borderWidth: 0)
 canvas.drawShapesWithBorders = true
 
 // draw rainbow
